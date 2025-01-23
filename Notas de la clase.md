@@ -1,6 +1,6 @@
 # Que son los metodos numericos segun la IA (Copilot)
 
-Llos métodos numéricos son técnicas matemáticas empleadas para encontrar soluciones aproximadas a problemas que pueden ser difíciles de resolver de manera analítica o exacta. Estos métodos son esenciales en diversas áreas como la ingeniería, la física, la economía y más. Permiten realizar cálculos complicados de manera más manejable utilizando aproximaciones, algoritmos y computadoras.
+Los métodos numéricos son técnicas matemáticas empleadas para encontrar soluciones aproximadas a problemas que pueden ser difíciles de resolver de manera analítica o exacta. Estos métodos son esenciales en diversas áreas como la ingeniería, la física, la economía y más. Permiten realizar cálculos complicados de manera más manejable utilizando aproximaciones, algoritmos y computadoras.
 
 Algunos ejemplos de métodos numéricos incluyen:
 
