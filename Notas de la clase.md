@@ -4,12 +4,12 @@ Llos métodos numéricos son técnicas matemáticas empleadas para encontrar sol
 
 Algunos ejemplos de métodos numéricos incluyen:
 
-Métodos de integración numérica: Como el método de Simpson o el de los trapecios, que se usan para calcular áreas bajo curvas.
+* Métodos de integración numérica: Como el método de Simpson o el de los trapecios, que se usan para calcular áreas bajo curvas.
 
-Métodos de solución de ecuaciones: Como el método de Newton-Raphson para encontrar raíces de funciones.
+* Métodos de solución de ecuaciones: Como el método de Newton-Raphson para encontrar raíces de funciones.
 
-Métodos de interpolación y extrapolación: Utilizados para estimar valores intermedios o extrapolar datos más allá de un rango conocido.
+* Métodos de interpolación y extrapolación: Utilizados para estimar valores intermedios o extrapolar datos más allá de un rango conocido.
 
-Métodos de solución de sistemas de ecuaciones lineales: Como la eliminación de Gauss.
+* Métodos de solución de sistemas de ecuaciones lineales: Como la eliminación de Gauss.
 
 Estos métodos son muy útiles cuando las soluciones exactas son difíciles o imposibles de encontrar, y permiten obtener respuestas suficientemente precisas para la mayoría de las aplicaciones prácticas.
